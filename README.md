@@ -17,7 +17,6 @@
 - 🚀 Currently **learning Full-Stack Development** (MERN, Python, DevOps).
 - 🤖 **Exploring AI/ML:** Machine Learning, Deep Learning, competitive ML challenges.
 - 📚 Always seeking opportunities to collaborate, innovate, and build impactful projects.
-- 🐶 Fun fact: If I'm not coding, you'll find me taking care of my dog, reading, or hiking!
 
 ---
 
