@@ -63,7 +63,7 @@
 
 ### 📬 **Get In Touch**
 
-- Email: heerakkashyap@example.com
+- Email: kashyapheerk@gmail.com
 - LinkedIn: [linkedin.com/in/heerakkashyap](https://www.linkedin.com/in/heerak-kashyap-352a62353/)
 
 ---
