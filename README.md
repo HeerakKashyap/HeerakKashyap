@@ -56,7 +56,8 @@
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
   <!-- Add more badges here -->
-  ![Azure AI Fundamentals]<img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/15c9f9da-c559-46a0-a480-d18d93eed0d0" />
+  ![Azure AI Fundamentals]<img width="120" height="120" alt="microsoft-certified-azure-ai-fundamentals" src="https://github.com/user-attachments/assets/0a2fa65a-fa73-45d6-bbed-3f49ff12cc01" />
+
 
 
 </p>
