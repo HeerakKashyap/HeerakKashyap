@@ -17,8 +17,8 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="360">
-      <img src="https://github.com/user-attachments/assets/9afe8c64-55f9-4fc8-9ed1-73677d7524f4" alt="Bearded Man Coding with Dog Companion" width="140"/>
+    <td align="center" width="370">
+      <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/image.jpg" alt="Bearded Man Coding with Dog Companion" width="170"/>
     </td>
     <td align="center" valign="middle">
       <h3>🛠️ Tech Stack & Tools</h3>
