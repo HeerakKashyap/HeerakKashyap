@@ -41,6 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeerakKashyap&layout=compact&theme=tokyonight" height="130"/>
 </p>
 
+<p>
+  <img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/1c848654-a496-45b8-8652-db920d627a44" />
+</p>
 <!-- Contribution Graph: (optional, can enable if you want) -->
 <!-- <img src="https://ghchart.rshah.org/HeerakKashyap" alt="HeerakKashyap's Github chart" height="120"> -->
 
