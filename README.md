@@ -52,19 +52,19 @@
 ### 🏆 **Badges**
 
 <p>
-  <!-- Google AI Certificate Badge -->
-  <a href="https://coursera.org/verify/7TELH7VHLXHZ">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/google-intro-ai-certificate.png" alt="Google Introduction to AI Certificate" width="90"/>
+   <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
-  <!-- Layer5 First Design Badge -->
-  <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/first-design.png" alt="First Design Badge" width="90"/>
+  <a href="[LINK_TO_VERIFICATION_OR_MORE_INFO](https://www.credly.com/badges/1220bb5f-c441-4109-90db-b392acccd345/public_url)">
+    <img src="<img width="120" height="120" alt="microsoft-certified-azure-ai-fundamentals" src="https://github.com/user-attachments/assets/88fd4083-5d28-4bb1-ba4b-0d8314358187" />
+" alt="Badge 2" width="90"/>
   </a>
-  <!-- Microsoft Azure AI Fundamentals Badge -->
-  <a href="https://www.credly.com/badges/your-badge-id/public_url">
-    <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/azure-ai-fundamentals.png" alt="Azure AI Fundamentals" width="90"/>
+  <a href="[LINK_TO_VERIFICATION_OR_MORE_INFO](https://coursera.org/share/695bdb7b2cb3262e80f7a25ab163e162)">
+    <img src="<img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/f8de58b3-a24a-43b0-8a6d-a6e857749409" />
+" alt="Badge 3" width="90"/>
   </a>
 </p>
+
 
 
 
