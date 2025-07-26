@@ -55,9 +55,8 @@
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
   <!-- Microsoft Azure AI Fundamentals -->
-<a href="https://www.credly.com/badges/1220bb5f-c441-4109-90db-b392acccd345/public_url">
-  <img src="https://images.credly.com/size/220x220/images/5c4eccc9-89e2-4d43-8945-372e36c7eb50/AzureAI-Fundamentals-600x600.png" alt="Azure AI Fundamentals" width="90"/>
-</a>
+<img width="120" height="120" alt="microsoft-certified-azure-ai-fundamentals" src="https://github.com/user-attachments/assets/35a7db01-e6f0-48d4-8d33-d01024dd73a7" />
+
 
 
 
