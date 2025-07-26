@@ -65,8 +65,6 @@
 
 - Email: heerakkashyap@example.com
 - LinkedIn: [linkedin.com/in/heerakkashyap](https://www.linkedin.com/in/heerak-kashyap-352a62353/)
-- Twitter: [@HeerakKashyap](https://twitter.com/HeerakKashyap)  
-- Portfolio: [Your Portfolio Site](#)
 
 ---
 
