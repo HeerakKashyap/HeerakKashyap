@@ -56,8 +56,10 @@
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
   <!-- Add more badges here -->
-</p>
+  ![Azure AI Fundamentals]<img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/15c9f9da-c559-46a0-a480-d18d93eed0d0" />
 
+
+</p>
 
 
 
