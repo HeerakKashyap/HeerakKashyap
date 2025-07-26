@@ -50,11 +50,16 @@
 ### 🏆 **Badges**
 
 <p>
+  <!-- Layer5 Badge -->
   <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1220bb5f-c441-4109-90db-b392acccd345" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <!-- Microsoft Azure AI Fundamentals -->
+  <a href="https://www.credly.com/badges/1220bb5f-c441-4109-90db-b392acccd345/public_url">
+    <img src="https://images.credly.com/size/220x220/images/5c4eccc9-89e2-4d43-8945-372e36c7eb50/AzureAI-Fundamentals-600x600.png" alt="Azure AI Fundamentals" width="90"/>
+  </a>
 </p>
+
 
 ---
 
