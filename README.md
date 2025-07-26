@@ -18,7 +18,7 @@
 <table align="center">
   <tr>
     <td align="center" width="370">
-      <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/image.jpg" alt="Bearded Man Coding with Dog Companion" width="170"/>
+      <img src="https://github.com/user-attachments/assets/56dfc0b1-5c02-4297-99c7-d96084417d34" alt="Bearded Man Coding with Dog Companion" width="170"/>
     </td>
     <td align="center" valign="middle">
       <h3>🛠️ Tech Stack & Tools</h3>
@@ -26,6 +26,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
