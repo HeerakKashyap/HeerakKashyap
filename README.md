@@ -61,8 +61,9 @@
     <img src="SECOND_BADGE_IMG_URL" alt="Second Badge" width="90"/>
   </a>
   <!-- Third Badge -->
-  <a href="THIRD_BADGE_LINK">
-    <img src="THIRD_BADGE_IMG_URL" alt="Third Badge" width="70"/> <!-- Adjusted size here -->
+  <a href="<img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/1e9e222b-64fa-44c5-9633-dbb7941a14f8" />
+">
+    <img src="FIRST_BADGE_IMG_URL" alt="First Badge" width="90"/> <!-- Adjusted size here -->
   </a>
 </p>
 
