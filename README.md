@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeerakKashyap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://ghchart.rshah.org/HeerakKashyap
-
 ![Profile Views](https://komarev.com/ghpvc/?username=HeerakKashyap)
 
 
