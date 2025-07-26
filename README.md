@@ -1,7 +1,7 @@
-<!-- Profile Banner (Custom Visual) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HeerakKashyap/HeerakKashyap/main/profile-hero.png" alt="Guy coding on laptop with dog" width="360"/>
+  <img src="https://github.com/user-attachments/assets/9afe8c64-55f9-4fc8-9ed1-73677d7524f4" alt="Bearded Man Coding with Dog Companion" width="320"/>
 </p>
+
 
 <h1 align="center">Hi, I'm Heerak Kashyap 👋</h1>
 
