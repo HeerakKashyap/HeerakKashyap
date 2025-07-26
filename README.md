@@ -49,19 +49,21 @@
 
 ### 🏆 **Badges**
 
-<p>
-   <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
+<p align="center">
+  <!-- Layer5 First Design Badge -->
+  <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
-  <a href="[LINK_TO_VERIFICATION_OR_MORE_INFO](https://www.credly.com/badges/1220bb5f-c441-4109-90db-b392acccd345/public_url)">
-    <img src="<img width="120" height="120" alt="microsoft-certified-azure-ai-fundamentals" src="https://github.com/user-attachments/assets/88fd4083-5d28-4bb1-ba4b-0d8314358187" />
-" alt="Badge 2" width="90"/>
+  <!-- Microsoft Certified Azure AI Fundamentals -->
+  <a href="https://www.credly.com/badges/1220bb5f-c441-4109-90db-b392acccd345/public_url">
+    <img src="https://github.com/user-attachments/assets/88fd4083-5d28-4bb1-ba4b-0d8314358187" alt="Microsoft Certified Azure AI Fundamentals" width="90"/>
   </a>
-  <a href="[LINK_TO_VERIFICATION_OR_MORE_INFO](https://coursera.org/share/695bdb7b2cb3262e80f7a25ab163e162)">
-    <img src="<img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/f8de58b3-a24a-43b0-8a6d-a6e857749409" />
-" alt="Badge 3" width="90"/>
+  <!-- Google AI Certificate (Coursera) -->
+  <a href="https://coursera.org/share/695bdb7b2cb3262e80f7a25ab163e162">
+    <img src="https://github.com/user-attachments/assets/f8de58b3-a24a-43b0-8a6d-a6e857749409" alt="Google AI Certificate" width="90"/>
   </a>
 </p>
+
 
 
 
