@@ -13,17 +13,19 @@
 - 🤖 **Exploring AI/ML:** Machine Learning, Deep Learning, competitive ML challenges.
 - 📚 Always seeking opportunities to collaborate, innovate, and build impactful projects.
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/9afe8c64-55f9-4fc8-9ed1-73677d7524f4" alt="Bearded Man Coding with Dog Companion" width="140"/>
-</div>
-
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,git,github,linux,vscode,docker" height="32"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="360">
+      <img src="https://github.com/user-attachments/assets/9afe8c64-55f9-4fc8-9ed1-73677d7524f4" alt="Bearded Man Coding with Dog Companion" width="140"/>
+    </td>
+    <td align="center" valign="middle">
+      <h3>🛠️ Tech Stack & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,git,github,linux,vscode,docker" height="32"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,15 +45,12 @@
 ### 🏆 Badges
 
 <p align="center">
-  <!-- Layer5 First Design Badge -->
   <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
   </a>
-  <!-- Microsoft Certified Azure AI Fundamentals Badge -->
   <a href="https://www.credly.com/badges/1220bb5f-c441-4109-90db-b392acccd345/public_url">
     <img src="https://github.com/user-attachments/assets/88fd4083-5d28-4bb1-ba4b-0d8314358187" alt="Microsoft Certified Azure AI Fundamentals" width="90"/>
   </a>
-  <!-- Google AI Certificate Badge -->
   <a href="https://coursera.org/share/695bdb7b2cb3262e80f7a25ab163e162">
     <img src="https://github.com/user-attachments/assets/f8de58b3-a24a-43b0-8a6d-a6e857749409" alt="Google AI Certificate" width="90"/>
   </a>
