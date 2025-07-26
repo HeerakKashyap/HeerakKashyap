@@ -55,9 +55,10 @@
   <!-- Layer5 Badge -->
   <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
     <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
-  </a>
-  <!-- Microsoft Azure AI Fundamentals -->
-<img width="120" height="120" alt="microsoft-certified-azure-ai-fundamentals" src="https://github.com/user-attachments/assets/35a7db01-e6f0-48d4-8d33-d01024dd73a7" />
+<a <img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/cdca0243-98d6-419a-ae78-eadcb8b61c51" />
+>
+  <img src="YOUR_BADGE_IMAGE_URL" alt="Badge Name" width="90"/>
+</a>
 
 
 
