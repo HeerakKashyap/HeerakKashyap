@@ -52,13 +52,20 @@
 ### 🏆 **Badges**
 
 <p>
-  <!-- Layer5 Badge -->
-  <a href="https://cloud.layer5.io/user/9dc49907-3c3f-4fd6-8fec-59fe444d2031?tab=badges&badge=first-design">
-    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="90"/>
-<a <img width="923" height="716" alt="file_2025-07-26_20 29 32" src="https://github.com/user-attachments/assets/cdca0243-98d6-419a-ae78-eadcb8b61c51" />
->
-  <img src="YOUR_BADGE_IMAGE_URL" alt="Badge Name" width="90"/>
-</a>
+  <!-- First Badge -->
+  <a href="FIRST_BADGE_LINK">
+    <img src="FIRST_BADGE_IMG_URL" alt="First Badge" width="90"/>
+  </a>
+  <!-- Second Badge -->
+  <a href="SECOND_BADGE_LINK">
+    <img src="SECOND_BADGE_IMG_URL" alt="Second Badge" width="90"/>
+  </a>
+  <!-- Third Badge -->
+  <a href="THIRD_BADGE_LINK">
+    <img src="THIRD_BADGE_IMG_URL" alt="Third Badge" width="70"/> <!-- Adjusted size here -->
+  </a>
+</p>
+
 
 
 
