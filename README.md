@@ -1,8 +1,3 @@
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/9afe8c64-55f9-4fc8-9ed1-73677d7524f4" alt="Bearded Man Coding with Dog Companion" width="180"/>
-</div>
-
-
 <h1 align="center">Hi, I'm Heerak Kashyap 👋</h1>
 
 <p align="center">
@@ -19,6 +14,9 @@
 - 📚 Always seeking opportunities to collaborate, innovate, and build impactful projects.
 
 ---
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/9afe8c64-55f9-4fc8-9ed1-73677d7524f4" alt="Bearded Man Coding with Dog Companion" width="150"/>
+</div>
 
 ### 🛠️ **Tech Stack & Tools**
 
