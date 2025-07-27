@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Heerak Kashyap 👋</h1>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE.png" alt="Profile Banner" width="70%"/>
-</p>
-
-<p align="center">
   <b>Undergraduate at <a href="https://www.iitbhu.ac.in/">IIT BHU</a> | <span style="color:#4078c0;">Full-Stack | AI/ML Enthusiast</span></b>
 </p>
 
