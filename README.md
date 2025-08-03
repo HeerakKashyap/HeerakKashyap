@@ -13,8 +13,6 @@
 > 🚀 <b>Full-Stack Dev:</b> MERN, Python, DevOps.
 > 
 > 🤖 <b>AI/ML:</b> ML, DL, Kaggle.
-> 
-> 📚 <b>Collaborator, Innovator, Impact Maker.</b>
 
 <p align="center">✦ ✦ ✦</p>
 
