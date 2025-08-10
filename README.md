@@ -32,7 +32,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeerakKashyap&show_icons=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=HeerakKashyap&theme=tokyonight" height="150" alt="Streak Stats" />
 </p>
 
 <p align="center">
