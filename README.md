@@ -34,10 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HeerakKashyap&show_icons=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeerakKashyap&layout=compact&theme=tokyonight" height="120" alt="Top Languages" />
-</p>
-
 ***
 
 ### 🏆 Badges
