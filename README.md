@@ -40,4 +40,4 @@
 ### 📬 Get In Touch
 
 - 📧 Email: <a href="mailto:kashyapheerk@gmail.com">kashyapheerk@gmail.com</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com
+- 🔗 LinkedIn: <a href="[https://www.linkedin.com](https://www.linkedin.com/in/heerak-kashyap-352a62353/)
