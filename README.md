@@ -12,21 +12,6 @@
 > 🚀 <b>Full-Stack Dev:</b> MERN, Python, DevOps.  
 > 🤖 <b>AI/ML:</b> Machine Learning, Deep Learning, Kaggle enthusiast.
 
-<p align="center">✦ ✦ ✦</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/user-attachments/assets/56dfc0b1-5c02-4297-99c7-d96084417d34" alt="Bearded Man Coding with Dog Companion" width="180" />
-    </td>
-    <td align="center" valign="middle" width="400">
-      <h3>🛠️ Tech Stack & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,git,github,linux,vscode,docker" height="34" alt="Tech icons" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">━ ⋆ ⋆ ━</p>
 
 ### 🚩 Achievements & Stats
 
