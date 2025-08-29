@@ -6,13 +6,6 @@
 
 <p align="center">✦ ✦ ✦</p>
 
-### 👨💻 About Me
-
-> 🎓 <b>Undergrad at IIT BHU</b>, passionate about <b>technology, startups, and research</b>.  
-> 🚀 <b>Full-Stack Dev:</b> MERN, Python, DevOps.  
-> 🤖 <b>AI/ML:</b> Machine Learning, Deep Learning, Kaggle enthusiast.
-
-
 ### 🚩 Achievements & Stats
 
 <p align="center">
