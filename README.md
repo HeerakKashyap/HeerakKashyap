@@ -33,4 +33,4 @@
 ### 📬 Get In Touch
 
 - 📧 Email: <a href="mailto:kashyapheerk@gmail.com">kashyapheerk@gmail.com</a>  
-- 🔗 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/heerak-kashyap-352a62353/)
+- 🔗 LinkedIn: [https://www.linkedin.com]([https://www.linkedin.com/in/heerak-kashyap-352a62353/](https://www.linkedin.com/in/heerak30?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
